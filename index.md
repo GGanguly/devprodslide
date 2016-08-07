@@ -16,9 +16,11 @@ knit        : slidify::knit2slides
 ### Part 1: Shiny App
 Discover which variables predict miles per gallon (MPG)
 
+*https://gg-apps.shinyapps.io/DevelopingDataProducts/*
+
 ### Part 2: Reproducible Pitch Presentation  
 
-*http://gganguly.github.io/developingdataproducts/slidify/index.html* (this presentation)
+*http://gganguly.github.io/devprodslide* (this presentation)
   
 ### Clone the repo
 ```
