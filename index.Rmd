@@ -25,6 +25,7 @@ Discover which variables predict miles per gallon (MPG)
 ### Clone the repo
 ```
 git clone git@github.com:gganguly/developingdataproducts.git
+
 ```
 
 --- .class #id
